@@ -55,7 +55,7 @@ Follow the prompts to set up your admin account.
 
 Access the development server at [http://localhost:8000/](http://localhost:8000/) in your web browser to view your portfolio website.
 
-Access the admin site at [http://localhost:8000/](http://localhost:8000/) to manage your application's data using the superuser credentials you created earlier.
+Access the admin site at [http://localhost:8000/admin](http://localhost:8000/admin) to manage your application's data using the superuser credentials you created earlier.
 
 ## LICENSE
 
